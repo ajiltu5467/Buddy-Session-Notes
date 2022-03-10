@@ -29,7 +29,7 @@ Make a validation rule such that num1 and num2 from the earlier task should alwa
 
 - Menus that expand to give users choices
 
-![picklist](files\picklist.gif)
+![picklist](files/picklist.gif)
 
 #### Task 3
 
