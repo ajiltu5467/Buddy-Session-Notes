@@ -9,7 +9,7 @@ Formula field automatically calculates a value based on other fields or a formul
 
 In the account object make 2 fields num1 and num2. Then make a formula field sum to calculate the sum of num1 and num2.
 
-![formula](files\formula.gif)
+![formula](files/formula.gif)
 
 # Validation Rules
 
